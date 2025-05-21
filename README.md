@@ -55,7 +55,7 @@ Label messages with sequence numbers and direction arrows.
 
 # Class Diagram
 
-![ClassDiagram1](https://github.com/user-attachments/assets/7e2c117a-4156-43ba-b0f2-b9274369c83f)
+![image](https://github.com/user-attachments/assets/23580ea3-5239-4c29-b4eb-709315222214)
 
 # Use Case Diagram
 
@@ -63,7 +63,7 @@ Label messages with sequence numbers and direction arrows.
 
 # Activity Diagram
 
-![ActivityDiagram1](https://github.com/user-attachments/assets/bf82e448-2584-485e-ba32-1c781381ad1a)
+![image](https://github.com/user-attachments/assets/95242d10-73c5-46e8-b6f8-b86e10b24750)
 
 # Package Diagram
 
@@ -71,8 +71,11 @@ Label messages with sequence numbers and direction arrows.
 
 # Sequence Diagram
 
-![SequenceDiagram1](https://github.com/user-attachments/assets/a319a988-b7f7-415d-a710-f5b9cde12b25)
+![image](https://github.com/user-attachments/assets/3590cf35-c1c5-478b-b23c-c623276642ea)
 
 # Communication Diagram
+
+![image](https://github.com/user-attachments/assets/e4ffdde5-1192-4d35-abaf-216287c10b50)
+
 # RESULT:
 Thus, the UML diagrams for a Railway Management System has been designed successfully.
